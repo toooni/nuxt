@@ -74,7 +74,7 @@
     "webpack": "5.99.9"
   },
   "devDependencies": {
-    "@arethetypeswrong/cli": "0.18.1",
+    "@arethetypeswrong/cli": "0.18.2",
     "@babel/core": "7.27.4",
     "@babel/helper-plugin-utils": "7.27.1",
     "@codspeed/core": "4.0.1",
